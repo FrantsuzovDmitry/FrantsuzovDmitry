@@ -9,6 +9,5 @@ Telegram: @dima_8904
 
 E-mail: francuzov_dm@mail.ru
 
-🌱 I’m currently learning c# and .NET technologies
-
-🔭 I’m currently getting a higher education
+Experiece: 
+.net Autotester: 01.04.24 - now 
